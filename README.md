@@ -85,5 +85,5 @@ Open your .env file and add your public key, secret key, merchant email and paym
 PAYSTACK_PUBLIC_KEY=pk_test_6636127768f5f9a45047f62a08c7f7f20e8b106b
 PAYSTACK_SECRET_KEY=sk_test_7dbaacccea5003afe6f89f82a0f755cbba99d959
 PAYSTACK_PAYMENT_URL=https://api.paystack.co
-MERCHANT_EMAIL=abdullahiabdulkabir1@gmail.com
+MERCHANT_EMAIL=youremail@example.com
 ```
